@@ -12,8 +12,7 @@
       <h1>This is a heading</h1> <!--heading-->
       <p>Document content goes here.....</p>
       <centre>
-          This stuff is <i>centred</i> and <u>followed</u> by a horizontal line
-      </centre>
+         <p> This stuff is <i>centred</i> and <u>followed</u> by a horizontal line </p>      </centre>
       <hr />
       <p> <b> URL </b> - Uniform Resource Locator </p>
       <p> <b> HTML </b> - Hypertext Markup Language </p>
