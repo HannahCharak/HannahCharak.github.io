@@ -1,5 +1,5 @@
 # Webpage
-# Wooo 
+# Wooo
 <!DOCTYPE html>
 
 <html>
@@ -10,7 +10,8 @@
 
    <body>
       <h1>This is a heading</h1>
-      <p>Document content goes here.....</p>
+      <p>Document content goes here.....
+      <b> URL</b> - Uniform Resource Locator </p>
    </body>
 
 </html>
